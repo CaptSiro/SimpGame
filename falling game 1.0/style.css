@@ -1,0 +1,21 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background: #202020;
+    flex-direction: column;
+}
+
+#canvas1 {
+    width: 900px;
+    height: 600px;
+    background: linear-gradient(rgba(0, 0, 0, 0.288), rgba(0, 0, 0, 0.733)), url(bg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+ 
+p {
+    color: #fff;
+    margin: 10px;
+    font-size: 1.2rem;
+}
